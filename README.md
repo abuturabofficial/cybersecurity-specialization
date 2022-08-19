@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Cybersecurity Specialization](#cybersecurity-specialization)
+  - [1) Usable Security](#1-usable-security)
+  - [2) Software Security](#2-software-security)
+  - [3) Cryptography](#3-cryptography)
+  - [4) Hardware Security](#4-hardware-security)
+  - [5) Cybersecurity Capstone Project](#5-cybersecurity-capstone-project)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Cybersecurity Specialization
 > Offered by University of Maryland, College Park
 
