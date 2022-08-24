@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Usable Authentication and Passwords](#usable-authentication-and-passwords)
+  - [Password Attacks](#password-attacks)
+  - [Two-Factor Authentication](#two-factor-authentication)
+    - [Security of TFA](#security-of-tfa)
+    - [Usability of TFA](#usability-of-tfa)
+  - [Biometric Authentication](#biometric-authentication)
+    - [Usability of Biometrics](#usability-of-biometrics)
+    - [Analyzing Security](#analyzing-security)
+  - [Gesture-based Authentication](#gesture-based-authentication)
+    - [Benefits](#benefits)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Usable Authentication and Passwords
 
 ## Password Attacks
