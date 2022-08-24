@@ -21,7 +21,7 @@
   + What authority is granted to software and other people when the user takes the easiest route to completing the task?
   + How can the safest ways of accomplishing the task be made easier and vice versa?
 
- - Grant authority to others in accordance with user actions indicating consent.
+- Grant authority to others in accordance with user actions indicating consent.
   + When does the system give access to the user's resources?
   + What user action grants that access?
   + Does the user understand that action grants access?
