@@ -1,4 +1,7 @@
 # Cybersecurity Specialization
+
+## **Note:** I have moved to zettelkasten note taking method, and this repo will no longer be updated. Currently, I'm not sharing my zettelkasten vault publicly.
+
 > Offered by University of Maryland, College Park
 
 My notes for the specialization includes following courses;
